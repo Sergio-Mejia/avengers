@@ -1,5 +1,5 @@
 # villanos
 
 * Dr. Doom
-* REd Skull
 * Thanos
+* Capitán América
